@@ -8,9 +8,6 @@
 </div>
 <br>
 
-## Objective
-
-Become more familiar with using React.js and building Single-page-applications.
 
 ## Functionality
 
@@ -19,18 +16,3 @@ Become more familiar with using React.js and building Single-page-applications.
 - Show keys to press on screen so you don't have to look at hands
 - Results component and keyboard showing incorrect keys
 - Option to generate based of your most incorrect keys or keys of your choice
-
-## Live Website
-
-https://rodneycumming.github.io/react-typing/ :zap:
-
-## Author
-
-- Rodney Cumming - RodneyCumming@gmail.com :email:
-
-## License
-
-[![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](http://badges.mit-license.org)
-
-- **[MIT license](http://badges.mit-license.org)**
-- Copyright 2018 © <a href="http://fvcproductions.com" target="_blank">Rodney Cumming</a>.
