@@ -4,7 +4,7 @@
 
 
 <br>
- <img src="https://github.com/devrod/readme-images/blob/master/typing-screenshot.png?raw=true" width="700" alt="landing page scroll animation">
+ <img src="https://github.com/Kshitij8241/React-Typing-Master/blob/main/Screenshot%202024-05-24%20003154.png?raw=true" width="700" alt="landing page scroll animation">
 </div>
 <br>
 
