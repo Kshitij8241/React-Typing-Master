@@ -2,22 +2,7 @@
  <h1 size="+2">Typing Practicer</h1>
  <h4><i>A react web app to practice typing</i></h4>
 
- <p align="center">
-    <a href="https://www.npmjs.com/package/npm/v/6.4.1" target="_blank"><img
-    	alt="npm version"
-    	src="https://img.shields.io/badge/npm-6.4.1-brightgreen.svg"></a>
-    <a href="#"><img
-    	alt="size of repository"
-    	src="https://img.shields.io/badge/Size-630%20KB-yellowgreen.svg"></a>
-    <a href="https://badges.mit-license.org/" target="_blank"><img
-    	alt="licence"
-    	src="https://img.shields.io/packagist/l/doctrine/orm.svg">
-	</a>
-    <a href="#" target="_blank"><img
-    	alt="Javascript percentage"
-    	src="https://img.shields.io/badge/Javascript-71.2%25-yellow.svg">
-	</a>
-</p>
+
 <br>
  <img src="https://github.com/devrod/readme-images/blob/master/typing-screenshot.png?raw=true" width="700" alt="landing page scroll animation">
 </div>
